@@ -1,8 +1,8 @@
-Jeu de Memory
-Description
+#Jeu de Memory
+#Description
 Le projet "Jeu de Memory" est un jeu de mémoire en ligne où les joueurs doivent faire correspondre des paires d'images. Ce jeu est conçu pour être amusant et stimulant, tout en améliorant la mémoire des joueurs.
 
-Prérequis
+#Prérequis
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants :
 
 PHP (version 7.4 ou supérieure)
@@ -12,7 +12,7 @@ Une base de données MySQL
 Installation
 Clonez le dépôt :
 
-bash
+#bash
 
 Verify
 Run
@@ -21,7 +21,7 @@ git clone https://github.com/votre-utilisateur/memory_game.git
 cd memory_game
 Installez les dépendances avec Composer :
 
-bash
+#bash
 
 Verify
 Run
@@ -29,7 +29,7 @@ Copy code
 composer install
 Configurez la base de données :
 
-Créez une base de données MySQL nommée memory_game.
+#Créez une base de données MySQL nommée memory_game.
 Importez le schéma de la base de données (si disponible) à partir d'un fichier SQL fourni dans le projet.
 Configurez les paramètres de connexion à la base de données :
 
@@ -50,7 +50,7 @@ Si vous utilisez XAMPP, démarrez Apache et MySQL.
 Si vous utilisez un autre serveur, assurez-vous qu'il pointe vers le dossier du projet.
 Accédez à l'application :
 
-Ouvrez votre navigateur et allez à l'adresse suivante :
+#Ouvrez votre navigateur et allez à l'adresse suivante :
 
 Verify
 Run
